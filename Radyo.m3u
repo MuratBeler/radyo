@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,RADYO TURK HAREKETI
+http://radyo.yayin.com.tr:6056/stream
+#EXTINF:-1,VITAMIN FM Rize
+http://dinle.vitaminfm.com:8004/;
+#EXTINF:-1,TRAKYA FM
+http://trakyafm.canliyayinda.com:9039/;
+#EXTINF:-1,TURKUVAZ ANADOLU
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:-1,TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:-1,TURKUVAZ MUSIKI
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:-1,TURKUVAZ NOSTALJI
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+#EXTINF:-1,TURKUVAZ ROMANTIK
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+#EXTINF:-1,SLOW KARADENIZ
+http://dinle.slowkaradenizfm.com:9578/;
+#EXTINF:-1,RADYO YAKAMOZ
+http://live4.radyotvonline.com:6570/;
+#EXTINF:-1,RADYO TURKUVAZ
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1,RADYO MUSIKI
+http://dijimedya.radyotvonline.net/radyomusiki
+#EXTINF:-1,RADYO KORDELYA
+http://38.96.148.39:8646/;
+#EXTINF:-1,RADYO HAMSI
+http://radyo.hamsi.fm:8050/;
+#EXTINF:-1,RADYO GULUSTAN
+https://anadolu.liderhost.com.tr:10967/;
+#EXTINF:-1,RADYO EN Konya
+http://yayin2.canliyayin.org:7222/;
+#EXTINF:-1,PAL NOSTALJİ
+https://ssl4.radyotvonline.com/radyohome/palnostaljihome.stream_aac/playlist.m3u8
+#EXTINF:-1,NUMBER 1 GREEK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e389058588_1/playlist.m3u8
+#EXTINF:-1,NEBI FM
+https://anadolu.liderhost.com.tr:10901/;
+#EXTINF:-1,HAMSI FM
+http://yayin.liderhost.net:8028/;
+#EXTINF:-1,GUL RADYO Izmit
+http://yayin2.canliyayin.org:8866/;
+#EXTINF:-1,GREEKLAND
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:-1,BIZIM ILLER Denizli 97,3
+http://yayin.yayindakiler.com:4078/;
+#EXTINF:-1,ANKARA HAVALARI
+http://37.247.98.8/stream/30/
